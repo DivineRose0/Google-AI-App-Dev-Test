@@ -1,0 +1,6 @@
+{
+  "name": "OmniCalc",
+  "description": "Ultra-lightweight, full-featured universal calculator with Retro Terminal phosphor UI, Room database persistent history, time intervals, pay & overtime, and all unit conversions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
